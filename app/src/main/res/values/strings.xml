@@ -16,14 +16,18 @@
     <string name="clear">C</string>
     <string name="exponent">^</string>
     <string name="parentheses">( )</string>
-    <string name="divide">/</string>
-    <string name="multiply">*</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
     <string name="add">+</string>
     <string name="substract">-</string>
     <string name="plusMinus">+/-</string>
     <string name="point">.</string>
     <string name="equals">=</string>
+    <string name="root">√</string>
+    <string name="factorial">!</string>
 
-    <string name="backspace"> bck </string>
+    <string name="backspace">  </string>
 
+    <string name="display">Enter in a value</string>
+    
 </resources>
