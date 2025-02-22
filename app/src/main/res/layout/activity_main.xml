@@ -331,15 +331,15 @@
         android:background="@drawable/circle"
         android:backgroundTint="#DD2C00"
         android:onClick="clearBTN"
-        android:text="@string/clear"
 
+        android:text="@string/clear"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
-        tools:layout_editor_absoluteX="5dp" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <ImageButton
-        android:id="@+id/button22"
+        android:id="@+id/backspaceBTN"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="wrap_content"
         android:layout_height="60dp"

@@ -26,7 +26,7 @@
     <string name="root">√</string>
     <string name="factorial">!</string>
 
-    <string name="backspace">  </string>
+    <string name="backspace">" "</string>
 
     <string name="display">Enter in a value</string>
     
